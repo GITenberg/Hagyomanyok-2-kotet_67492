@@ -1,0 +1,29 @@
+_repo: Hagyomanyok-2-kotet_67492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kálmány, Lajos
+    alias: Kalmany, Lajos
+    birthdate: 1852
+    deathdate: 1919
+    gutenberg_agent_id: '49134'
+    url: http://www.gutenberg.org/2009/agents/49134
+    wikipedia: https://hu.wikipedia.org/wiki/Kálmány_Lajos
+description: ''
+gutenberg_issued: '2022-02-24'
+identifiers:
+  gutenberg: '67492'
+language: hu
+pgterms:marc905: 20180414152452klmny
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the HathiTrust
+  Digital Library
+publication_note: Hungary :Néphagyományokat-gyüjtő Társaság,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hagyományok (2. kötet)
+url: http://www.gutenberg.org/ebooks/67492
