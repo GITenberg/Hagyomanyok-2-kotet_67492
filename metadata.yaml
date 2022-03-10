@@ -1,5 +1,8 @@
 _repo: Hagyomanyok-2-kotet_67492
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kálmány, Lajos
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49134
     wikipedia: https://hu.wikipedia.org/wiki/Kálmány_Lajos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67492#Hagyomanyok-2-kotet
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67492'
